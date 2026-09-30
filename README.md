@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=hey!+👋;i'm+raph!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=4000&lines=hey!+👋;i'm+raph!" />
 </h1>
 
 <h2 align="center">honours cs/cyber @ carleton university</h2>
